@@ -1,4 +1,4 @@
-# Biography-Project
+# My Biography
 ## Overview
 Welcome to the Biography Project! This project aims to provide a comprehensive overview of my life, covering various aspects such as academic achievements, sports involvement, city of origin, university life, notable achievements, personal favorites, and role models.
 
